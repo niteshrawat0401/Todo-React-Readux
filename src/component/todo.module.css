@@ -1,0 +1,10 @@
+.lineThrought{
+    text-decoration: line-through;
+  }
+  .flex{
+    display: grid;
+    max-width: 200;
+    grid-template-columns:1fr 200px ;
+    justify-content: center;
+    text-align: center;
+  }
